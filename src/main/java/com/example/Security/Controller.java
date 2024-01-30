@@ -21,14 +21,7 @@ public class Controller {
 		return "Hello";
 	}
 	
-//	@GetMapping("/all")
-//	public String helloAll() {
-//		return "Hello";
-//	}
-	@GetMapping("/alls")
-	public String helloAlls() {
-		return "Hellos";
-	}
+
 	
 	
 	
